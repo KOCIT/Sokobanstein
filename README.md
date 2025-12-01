@@ -62,6 +62,9 @@ ArduboyTones
 Этот проект распространяется под лицензией MIT. Вы можете свободно использовать, модифицировать и распространять код с указанием авторства.
 
 Ссылки
+Документация Arduboy https://arduboy.com/
+Сообщество разработчиков Arduboy https://community.arduboy.com/
+Исходный код на GitHub https://github.com/yourusername/sokobanstein-3d
 
 Документация Arduboy
 Сообщество разработчиков Arduboy
