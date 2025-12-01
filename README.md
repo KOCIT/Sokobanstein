@@ -32,10 +32,15 @@ Sokobanstein 3D — это уникальная игра для портатив
 
 text
 Sokobanstein3D/
+
 ├── Sokobanstein3D.ino  # Основной код игры
+
 ├── assets/              # Графика и ресурсы
+
 ├── levels/              # Конфигурации уровней
+
 ├── docs/               # Документация
+
 └── README.md           # Этот файл
 Управление
 
